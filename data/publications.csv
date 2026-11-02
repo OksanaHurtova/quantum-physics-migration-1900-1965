@@ -1,0 +1,571 @@
+id_вченого,Рік_публікації,Назва,Журнал/видавництво,Тип(стаття/книга/тд)
+1,1900,Ueber eine Verbesserung der Wien'schen Spectralgleichung,Verhandlungen der Deutschen Physikalischen Gesellschaft,стаття
+1,1900,Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum,Verhandlungen der Deutschen Physikalischen Gesellschaft,стаття
+1,1901,Über das Gesetz der Energieverteilung im Normalspektrum,Annalen der Physik,стаття
+1,1901,Über die Elementarquante der Materie und der Elektrizität,Annalen der Physik,стаття
+1,1906,Vorlesungen über die Theorie der Wärmestrahlung,Johann Ambrosius Barth (Leipzig),книга
+1,1910,Zur Theorie der Wärmestrahlung,Annalen der Physik,стаття
+1,1911,Eine neue Strahlungshypothese,Verhandlungen der Deutschen Physikalischen Gesellschaft,стаття
+1,1911,Zur Hypothese der Lichtquanten,Сольвеївський конгрес (Брюссель),доповідь
+1,1912,Über die Begründung des Gesetzes der schwarzen Strahlung,Annalen der Physik,стаття
+1,1913,Vorlesungen über die Theorie der Wärmestrahlung (2. Auflage),Johann Ambrosius Barth (Leipzig),книга
+1,1913,Neue Bahnen der physikalischen Erkenntnis,Rektorwechsel an der Friedrich-Wilhelms-Universität zu Berlin,промова
+1,1913,"Über das Gleichgewicht zwischen Oszillatoren, freien Elektronen und strahlender Wärme","Preussische Akademie der Wissenschaften, Sitzungsberichte",стаття
+1,1914,Eine veränderte Formulierung der Quantenhypothese,"Preussische Akademie der Wissenschaften, Sitzungsberichte",стаття
+1,1914,Die physikalische Bedeutung der Quantenhypothese,Die Naturwissenschaften,стаття
+1,1915,Über die Energieverteilung in einem System rotierenden Dipole,Elster-Geite-Festschrift,стаття
+1,1915,Über Quantenwirkungen in der Elektrodynamik,"Preussische Akademie der Wissenschaften, Sitzungsberichte",стаття
+1,1915,Die Quantenhypothese für Molekeln mit mehreren Freiheitsgraden,Verhandlungen der Deutschen Physikalischen Gesellschaft,стаття
+1,1916,Die physikalische Struktur des Phasenraumes,Annalen der Physik,стаття
+1,1917,Über einen Satz der statistischen Dynamik und seine Erweiterung in der Quantentheorie,"Preussische Akademie der Wissenschaften, Sitzungsberichte",стаття
+1,1917,Zur Theorie des Rotationsspektrums,Annalen der Physik,стаття
+1,1918,Zur Quantelung des asymmetrischen Kreisels,"Preussische Akademie der Wissenschaften, Sitzungsberichte",стаття
+1,1920,Die Entstehung und bisherige Entwicklung der Quantentheorie,Johann Ambrosius Barth (Leipzig),книга
+1,1924,Zur Quantentheorie der Multipletts,Zeitschrift für Physik,стаття
+2,1911,Das Plancksche Wirkungsquantum und seine allgemeine Bedeutung für die Molekularphysik,Physikalische Zeitschrift,стаття
+2,1915,Die allgemeine Dispersionsformel nach dem Bohr'schen Modell,Elster-Geitel-Festschrift,стаття
+2,1916,Zur Quantentheorie der Spektrallinien,Annalen der Physik,стаття
+2,1917,"Die Drude'sche Dispersionstheorie vom Standpunkte des Bohr'schen Modells und die Konstitution von H₂, O₂ und N₂",Annalen der Physik,стаття
+2,1919,Atombau und Spektrallinien (1. Auflage),Vieweg (Braunschweig),книга
+2,1921,Atombau und Spektrallinien (2. Auflage),Vieweg (Braunschweig),книга
+2,1922,Quantentheoretische Umdeutung der Voigt'schen Theorie des anomalen Zeeman-Effektes vom D-Linientypus,Zeitschrift für Physik,стаття
+2,1923,"Über die Deutung verwickelter Spektren (Mangan, Chrom usw.) nach der Methode der inneren Quantenzahlen",Annalen der Physik,стаття
+2,1924,Grundlagen der Quantentheorie und des Bohrschen Atommodells,Die Naturwissenschaften,стаття
+3,1905,Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt,Annalen der Physik,стаття
+3,1906,Zur Theorie der Lichterzeugung und Lichtabsorption,Annalen der Physik,стаття
+3,1907,Über die Gültigkeitsgrenze des Satzes vom thermodynamischen Gleichgewicht und über die Möglichkeit einer neuen Bestimmung der Elementarquanta,Annalen der Physik,стаття
+3,1909,Zum gegenwärtigen Stand des Strahlungsproblems,Physikalische Zeitschrift,стаття
+3,1910,Statistische Untersuchung der Bewegung eines Resonators in einem Strahlungsfeld (mit L. Hopf),Annalen der Physik,стаття
+3,1913,Einige Argumente für die Annahme einer molekularen Agitation beim absoluten Nullpunkt (mit O. Stern),Annalen der Physik,стаття
+3,1916,Zur Quantentheorie der Strahlung,Mitteilungen der Physikalischen Gesellschaft Zürich; Physikalische Zeitschrift,стаття
+3,1917,Zur Quantentheorie der Strahlung (розширена версія),Physikalische Zeitschrift,стаття
+3,1923,Zur Quantentheorie des Strahlungsgleichgewichts (mit P. Ehrenfest),Zeitschrift für Physik,стаття
+3,1924,Quantentheorie des einatomigen idealen Gases,Sitzungsberichte der Preussischen Akademie der Wissenschaften,стаття
+3,1925,Quantentheorie des einatomigen idealen Gases. Zweite Abhandlung,Sitzungsberichte der Preussischen Akademie der Wissenschaften,стаття
+4,1924,Über Quantenmechanik,Zeitschrift für Physik,стаття
+4,1925,Zur Quantenmechanik,Zeitschrift für Physik,стаття
+4,1925,Zur Quantentheorie aperiodischer Vorgänge,Zeitschrift für Physik,стаття
+4,1925,Zur Theorie der Stossanregung von Atomen und Molekülen,Die Naturwissenschaften,стаття
+4,1926,Probleme der Atomdynamik,Julius Springer (Berlin),книга
+4,1926,Zur Quantenmechanik der Stoßvorgänge,Zeitschrift für Physik,стаття
+4,1926,Quantenmechanik der Stoßvorgänge,Zeitschrift für Physik,стаття
+4,1926,Das Adiabatenprinzip in der Quantenmechanik,Zeitschrift für Physik,стаття
+4,1930,Elementare Quantenmechanik,Springer (Berlin),книга
+4,1933,Foundations of the new field theory,Nature,стаття
+4,1934,Foundations of the new field theory (повна версія),Proceedings of the Royal Society A,стаття
+4,1934,On the quantisation of the new field equations.,Proceedings of the Royal Society A,стаття
+4,1934,Déduction de l'équation d'ondes de Dirac,"Comptes rendus de l'Académie des sciences, Paris",стаття
+4,1934,Principes de la nouvelle électrodynamique quantique,"Comptes rendus de l'Académie des sciences, Paris",стаття
+4,1935,On the quantization of the new field theory. II,Proceedings of the Royal Society A,стаття
+4,1935,Atomic Physics,Blackie & Son (London),книга
+4,1949,Natural Philosophy of Cause and Chance,Clarendon Press (Oxford),книга
+4,1953,The interpretation of quantum mechanics,British Journal for the Philosophy of Science,стаття
+4,1954,Dynamical Theory of Crystal Lattices,Clarendon Press (Oxford),книга
+5,1912,Note on the Electron Theory of Thermoelectric Phenomena,Philosophical Magazine,стаття
+5,1913,"On the Constitution of Atoms and Molecules, Part I",Philosophical Magazine,стаття
+5,1913,"On the Constitution of Atoms and Molecules, Part II: Systems Containing Only a Single Nucleus",Philosophical Magazine,стаття
+5,1913,"On the Constitution of Atoms and Molecules, Part III: Systems Containing Several Nuclei",Philosophical Magazine,стаття
+5,1913,The Spectra of Helium and Hydrogen,Nature,стаття
+5,1913,On the Effect of Electric and Magnetic Fields on Spectral Lines,Philosophical Magazine,стаття
+5,1914,On the Spectrum of Hydrogen,Fysisk Tidsskrift,стаття
+5,1915,On the Series Spectrum of Hydrogen and the Structure of the Atom,Philosophical Magazine,стаття
+5,1915,The Spectra of Hydrogen and Helium,Nature,стаття
+5,1915,On the Quantum Theory of Radiation and the Structure of the Atom,Philosophical Magazine,стаття
+5,1916,On the Application of the Quantum Theory to Periodic Systems,Bohr's Collected Works,стаття
+5,1918,"On the Quantum Theory of Line Spectra, Part I: On the General Theory","Det Kongelige Danske Videnskabernes Selskab, Matematisk-fysiske Meddelser",стаття
+5,1918,"On the Quantum Theory of Line Spectra, Part II: On the Hydrogen Spectrum","Det Kongelige Danske Videnskabernes Selskab, Matematisk-fysiske Meddelser",стаття
+5,1920,Some Considerations of Atomic Structure,Lecture before the Physical Society of Copenhagen,доповідь
+5,1920,Über die Serienspektra der Elemente,Zeitschrift für Physik,стаття
+5,1921,Atomic Structure,Nature,стаття
+5,1921,Zur Frage der Polarisation der Strahlung in der Quantentheorie,Zeitschrift für Physik,стаття
+5,1922,Der Bau der Atome und die physikalischen und chemischen Eigenschaften der Elemente,Zeitschrift für Physik,стаття
+5,1922,The Difference Between Series Spectra of Isotopes,Nature,стаття
+5,1922,"On the Quantum Theory of Line Spectra, Part III: On the Spectra of Elements of Higher Atomic Number","Det Kongelige Danske Videnskabernes Selskab, Matematisk-fysiske Meddelser",стаття
+5,1922,Seven Lectures on the Theory of Atomic Structure,Göttingen,доповідь
+5,1923,Linienspektren und Atombau,Annalen der Physik,стаття
+5,1923,"Über die Anwendung der Quantentheorie auf dem Atombau, I. Die Grundpostulate der Quantentheorie",Zeitschrift für Physik,стаття
+5,1923,Über die Anwendung der Quantentheorie auf dem Atombau. II. Theorie der Serienspektren,Bohr's Collected Works,стаття
+5,1924,"On the Application of the Quantum Theory to Atomic Structure, Part I: The Fundamental Postulates",Proceedings of the Cambridge Philosophical Society (Supplement),стаття
+5,1924,The Quantum Theory of Radiation,Zeitschrift für Physik; Philosophical Magazine,стаття
+5,1926,Spinning Electrons and the Structure of Spectra,Nature,стаття
+5,1926,Über die Wirkung von Atomen bei Stössen,Zeitschrift für Physik,стаття
+5,1928,The Quantum Postulate and the Recent Development of Atomic Theory,Nature,стаття
+5,1935,Can Quantum-Mechanical Description of Physical Reality be Considered Complete?,Physical Review,стаття
+5,1949,Discussion with Einstein on Epistemological Problems in Atomic Physics,"In P.A. Schilpp, Albert Einstein: Philosopher-Scientist",стаття
+6,1926,Quantisierung als Eigenwertproblem (Erste Mitteilung),Annalen der Physik,стаття
+6,1926,Quantisierung als Eigenwertproblem (Zweite Mitteilung),Annalen der Physik,стаття
+6,1926,Quantisierung als Eigenwertproblem (Dritte Mitteilung),Annalen der Physik,стаття
+6,1926,Quantisierung als Eigenwertproblem (Vierte Mitteilung),Annalen der Physik,стаття
+6,1926,Über das Verhältnis der Heisenberg-Born-Jordanschen Quantenmechanik zu der meinen,Annalen der Physik,стаття
+6,1926,An Undulatory Theory of the Mechanics of Atoms and Molecules,Physical Review,стаття
+6,1927,Abhandlungen zur Wellenmechanik,Johann Ambrosius Barth Verlag (Leipzig),книга
+6,1927,Der Energieimpulssatz der Materiewellen,Annalen der Physik,стаття
+6,1927,Energieaustausch nach der Wellenmechanik,Annalen der Physik,стаття
+6,1927,Über den Comptoneffekt,Annalen der Physik,стаття
+6,1928,Collected Papers on Wave Mechanics,Blackie (Glasgow),книга
+6,1928,Four Lectures on Wave Mechanics,Blackie (Glasgow),книга
+6,1930,Über die kräftefreie Bewegung in der relativistischen Quantenmechanik,Sitzungsberichte der Preussischen Akademie der Wissenschaften,стаття
+6,1931,Zur Quantendynamik des Elektrons,,стаття
+6,1932,Diracsches Elektron im Schwerefeld I,,стаття
+6,1933,Mémoires sur la mécanique ondulatoire,Alcan (Paris),книга
+6,1940,A Method of Determining Quantum-Mechanical Eigenvalues and Eigenfunctions,Proceedings of the Royal Irish Academy,стаття
+6,1941,Further Studies on Solving Eigenvalue Problems by Factorization,Proceedings of the Royal Irish Academy,стаття
+6,1941,On the Solutions of Wave Equations for Non-Vanishing Rest-Mass Including a Source-Function,Proceedings of the Royal Irish Academy,стаття
+6,1942,Non-Linear Optics,Proceedings of the Royal Irish Academy,стаття
+6,1943,Systematics of Meson-Matrices,Proceedings of the Royal Irish Academy,стаття
+6,1943,The General Unitary Theory of the Physical Fields,Proceedings of the Royal Irish Academy,стаття
+6,1944,The Union of the Three Fundamental Fields,Proceedings of the Royal Irish Academy,стаття
+6,1950,What is an Elementary Particle?,,стаття
+6,1952,Are There Quantum Jumps? Part I,,стаття
+7,1923,Ondes et quanta,Comptes rendus de l'Académie des sciences,стаття
+7,1923,"Quanta de lumière, diffraction et interférences",Comptes rendus de l'Académie des sciences,стаття
+7,1923,"Les quanta, la théorie cinétique des gaz et le principe de Fermat",Comptes rendus de l'Académie des sciences,стаття
+7,1924,Recherches sur la théorie des quanta,Masson et Cie (Paris),дисертація
+7,1925,Recherches sur la théorie des quanta,Annales de Physique,стаття
+7,1926,Ondes et mouvements,Gauthier-Villars (Paris),книга
+7,1927,La mécanique ondulatoire,Gauthier-Villars (Paris),книга
+7,1928,Introduction à l'étude de la mécanique ondulatoire,Hermann (Paris),книга
+7,1930,An Introduction to the Study of Wave Mechanics,Methuen & Co. (London),книга
+7,1930,Recueil d'exposés sur les ondes et corpuscules,Hermann (Paris),книга
+7,1934,L'Électron magnétique,Hermann (Paris),книга
+7,1934,Une nouvelle conception de la lumière,Hermann (Paris),книга
+7,1937,La physique nouvelle et les quanta,Flammarion (Paris),книга
+7,1940,"Une nouvelle théorie de la lumière, I: La mécanique ondulatoire du photon",Hermann (Paris),книга
+7,1947,Physique et microphysique,Albin Michel (Paris),книга
+8,1923,Über die Gesetzmäßigkeiten des anomalen Zeemanefektes,Zeitschrift für Physik,стаття
+8,1923,Zur Frage der Zuordnung der Komplexstrukturterme in starken und in schwachen äußeren Feldern,Zeitschrift für Physik,стаття
+8,1924,Bemerkungen zu den Arbeiten Die Dimension der Einsteinschen Lichtquanten und Zur Dynamik des Stößes zwischen einem Lichtquant und einem Elektron,Zeitschrift für Physik,стаття
+8,1925,Über den Einfluß der Geschwindigkeitsabhängigkeit der Elektronenmasse auf den Zeemanefekt,Zeitschrift für Physik,стаття
+8,1925,Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren,Zeitschrift für Physik,стаття
+8,1926,Quantentheorie,Handbuch der Physik,книга
+8,1926,Über das Wasserstoffspektrum von Standpunkt der neuen Quantenmechanik,Zeitschrift für Physik,стаття
+8,1927,Über Gesamtartung und Paramagnetismus,Zeitschrift für Physik,стаття
+8,1927,Zur Quantenmechanik des magnetischen Elektrons,Zeitschrift für Physik,стаття
+8,1933,Die allgemeinen Prinzipien der Wellenmechanik,Handbuch der Physik,книга
+8,1934,Über die Quantisierung der skalaren relativistischen Wellengleichung (mit V. Weisskopf),Helvetica Physica Acta,стаття
+8,1937,Über das H-Theorem in der Quantenmechanik (mit M. Fierz),Zeitschrift für Physik,стаття
+8,1938,Zur Theorie der Emission langwelliger Lichtquanten (mit M. Fierz),Nicola Zanichelli (Bologna),книга
+8,1940,The Connection Between Spin and Statistics,Physical Review,стаття
+8,1943,On the Theory of a Mixed Pseudoscalar and a Vector Meson Field (mit S. Kusaka),Physical Review,стаття
+8,1949,On the Invariant Regularization in Relativistic Quantum Theory (mit F. Villars),Reviews of Modern Physics,стаття
+9,1922,Zur Quantentheorie der Linienstruktur und der anomalen Zeemaneflekte,Zeitschrift für Physik,стаття
+9,1925,Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen,Zeitschrift für Physics,стаття
+9,1925,Über die streuung von strahlung durch atome (mit H.A. Kramers),Zeitschrift für Physik,стаття
+9,1926,Mehrkörperproblem und Resonanz in der Quantenmechanik,Zeitschrift für Physik,стаття
+9,1927,Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik,Zeitschrift für Physik,стаття
+9,1928,Zur theorie des ferromagnetismus,Zeitschrift für Physik,стаття
+9,1929,Zur Quantendynamik der Wellenfelder (mit W. Pauli),,стаття
+9,1930,Die physikalischen Prinzipien der Quantentheorie,S. Hirzel (Leipzig),книга
+9,1932,Über den bau der atomkerne. i,Zeitschrift für Physik,стаття
+9,1936,Folgerungen aus der diracschen theorie des positrons (mit H. Euler),Zeitschrift für Physik,стаття
+9,1958,Physics and Philosophy: The Revolution in Modern Science,Harper & Row,книга
+10,1925,The Fundamental Equations of Quantum Mechanics,Proceedings of the Royal Society A,стаття
+10,1926,On the Theory of Quantum Mechanics,Proceedings of the Royal Society A,стаття
+10,1927,The Quantum Theory of the Emission and Absorption of Radiation,Proceedings of the Royal Society A,стаття
+10,1927,The Physical Interpretation of the Quantum Dynamics,Proceedings of the Royal Society A,стаття
+10,1928,The Quantum Theory of the Electron,Proceedings of the Royal Society A,стаття
+10,1928,The Quantum Theory of the Electron. Part II,Proceedings of the Royal Society A,стаття
+10,1929,The Basis of Statistical Quantum Physics,Proceedings of the Cambridge Philosophical Society,стаття
+10,1930,The Principles of Quantum Mechanics,Oxford University Press,книга
+10,1931,Quantised Singularities in the Electromagnetic Field,Proceedings of the Royal Society A,стаття
+10,1933,The Lagrangian in Quantum Mechanics,Physikalische Zeitschrift der Sowjetunion,стаття
+10,1939,A New Notation for Quantum Mechanics,Mathematical Proceedings of the Cambridge Philosophical Society,стаття
+10,1950,Generalized Hamiltonian Dynamics,Canadian Journal of Mathematics,стаття
+11,1924,Zur Theorie der Quantenstrahlung,Zeitschrift für Physik,стаття
+11,1925,Zur Quantenmechanik (mit M. Born),Zeitschrift für Physik,стаття
+11,1926,"Zur Quantenmechanik. II (mit M. Born, W. Heisenberg)",Zeitschrift für Physik,стаття
+11,1927,Zur Quantenmechanik der Gasentartung,Zeitschrift für Physik,стаття
+11,1927,Über quantenmechanische Darstellung von Quantensprüngen,Zeitschrift für Physik,стаття
+11,1927,Über eine neue Begründung der Quantenmechanik,Zeitschrift für Physik,стаття
+11,1927,Anmerkung zur statistischen Deutung der Quantenmechanik,Zeitschrift für Physik,стаття
+11,1927,Über eine neue Begründung der Quantenmechanik II,Zeitschrift für Physik,стаття
+11,1928,Zur Quantenmechanik des magnetischen Elektrons (mit E. Wigner),Zeitschrift für Physik,стаття
+11,1934,"On an Algebraic Generalization of the Quantum Mechanical Formalism (mit J. von Neumann, E. Wigner)",Annals of Mathematics,стаття
+11,1944,Physics of the 20th Century,Philosophical Library (New York),книга
+12,1927,Einige Folgerungen aus der Schrödingerschen Theorie für die Ternstrukturen,Zeitschrift für Physik,стаття
+12,1928,Zur Quantenmechanik des magnetischen Elektrons (mit P. Jordan),Zeitschrift für Physik,стаття
+12,1930,Gruppentheorie und ihre Anwendung auf die Quantenmechanik der Atomspektren,Friedrich Vieweg & Sohn (Braunschweig),книга
+12,1931,Über die Operation der Zeitumkehr in der Quantenmechanik,Nachrichten der Gesellschaft der Wissenschaften zu Göttingen,стаття
+12,1932,On the Quantum Correction for Thermodynamic Equilibrium,Physical Review,стаття
+12,1934,"On an Algebraic Generalization of the Quantum Mechanical Formalism (mit P. Jordan, J. von Neumann)",Annals of Mathematics,стаття
+12,1936,On the Algebraic Generalization of the Quantum Mechanical Formalism. I (mit J. von Neumann),Matematicheskii Sbornik (Moscow),стаття
+13,1927,Mathematische Begründung der Quantenmechanik,Nachrichten der Gesellschaft der Wissenschaften zu Göttingen,стаття
+13,1927,Wahrscheinlichkeitstheoretischer Aufbau der Quantenmechanik,Nachrichten der Gesellschaft der Wissenschaften zu Göttingen,стаття
+13,1927,Thermodynamik quantenmechanischer Gesamtheiten,Nachrichten der Gesellschaft der Wissenschaften zu Göttingen,стаття
+13,1929,Beweis des Ergodensatzes und des H-Theorems in der neuen Mechanik,Zeitschrift für Physik,стаття
+13,1932,Mathematische Grundlagen der Quantenmechanik,Julius Springer (Berlin),книга
+13,1934,"On an Algebraic Generalization of the Quantum Mechanical Formalism (mit P. Jordan, E. Wigner)",Annals of Mathematics,стаття
+13,1936,On an Algebraic Generalization of the Quantum Mechanical Formalism. I,Matematicheskii Sbornik (Moscow),стаття
+13,1936,"On the Algebraic Generalization of the Quantum Mechanical Formalism (mit P. Jordan, E. Wigner)",Annals of Mathematics,стаття
+14,1924,Considerazioni sulla quantizzazione dei sistemi che contengono degli elementi identici,Il Nuovo Cimento,стаття
+14,1924,Un metodo statistico per la determinazione di alcune proprietà dell’atomo,Rendiconti dell'Accademia dei Lincei,стаття
+14,1924,Sulla teoria degli urti tra atomi e particelle elettrizzate,Nuovo Cimento,стаття
+14,1925,Zur Quantelung des idealen einatomigen Gases,Zeitschrift für Physik,стаття
+14,1926,Zur Quantelung des idealen Gases,Zeitschrift für Physik,стаття
+14,1927,Sulla meccanica statistica,Rendiconti dell'Accademia dei Lincei,стаття
+14,1927,Un metodo statistico per la determinazione di alcune proprietà dell’atomo. II,Rendiconti dell'Accademia dei Lincei,стаття
+14,1928,Über die Anwendung der statistischen Methode auf die Probleme des Atombaues,Zeitschrift für Physik,стаття
+14,1932,Quantum Theory of Radiation,Reviews of Modern Physics,стаття
+14,1933,Tentativo di una teoria dell'emissione dei raggi β,Ricerca Scientifica,стаття
+14,1934,Verso una teoria dei raggi β,Nuovo Cimento,стаття
+14,1934,Sui raggi beta,Scientia,стаття
+14,1934,Le ultime particelle costitutive della materia,Scientia,стаття
+14,1934,Sulla teoria statistica dell'atomo (з E. Amaldi),Rendiconti dell'Accademia d'Italia,стаття
+14,1935,On the Recombination of Neutrons and Protons,Physical Review,стаття
+14,1936,Thermodynamics,Prentice-Hall (New York),книга
+15,1928,Splitting of Terms in Crystals,"Dissertation, University of Munich / Ann. Physik 3",дисертація
+15,1929,The Electron Affinity of Hydrogen,Zeits. Physik 57,стаття
+15,1930,Theory of the Passage of Fast Corpuscular Rays Through Matter,Annalen Phys. 5,стаття
+15,1930,On the Theory of Metals I: Eigenvalues and Eigenfunctions of a Linear Chain of Atoms,(стаття),стаття
+15,1933,Magnetische Wechselwirkung der Metallelektronen (mit H. Fröhlich),Zeitschrift für Physik A,стаття
+15,1935,Statistical Theory of Superlattices,Proceedings of the Royal Society of London A,стаття
+15,1935,Ionization Power of a Neutrino with Magnetic Moment,Proceedings of the Cambridge Philosophical Society,стаття
+15,1935,On the Annihilation Radiation of Positrons,Proceedings of the Royal Society of London A,стаття
+15,1935,Theory of Disintegration of Nuclei by Neutrons,Physical Review,стаття
+15,1936,An Attempt to Calculate the Number of Energy Levels of a Heavy Nucleus,Physical Review,стаття
+15,1936,Nuclear Radius and Many-Body Problem,Physical Review,стаття
+15,1936,Theory of Scattering of Protons by Protons,Physical Review,стаття
+15,1937,"Nuclear Physics B: Nuclear Dynamics, Theoretical",Reviews of Modern Physics,стаття
+15,1938,The Binding Energy of the Deuteron,Physical Review,стаття
+15,1938,The Oppenheimer-Phillips Process,Physical Review,стаття
+15,1938,A Method for Treating Large Perturbations,Physical Review,стаття
+15,1939,Energy Production in Stars,Physical Review,стаття
+15,1939,The Meson Theory of Nuclear Forces,Physical Review,стаття
+15,1940,The Meson Theory of Nuclear Forces I. General Theory,Physical Review,стаття
+15,1946,Multiple Scattering and the Mass of the Meson,Physical Review,стаття
+15,1947,The Electromagnetic Shift of Energy Levels,Physical Review,стаття
+15,1951,Meson Scattering (з Р. Вільсоном),Physical Review,стаття
+15,1954,Quantum Mechanics of One- and Two-Electron Atoms (з Е. Салпетером),Academic Press (New York),книга
+15,1960,Role of the π-π Interaction in High-Energy π-Nucleon Interactions (з П. Каррутерсом),Physical Review Letters,стаття
+16,1928,Über die Quantenmechanik der Elektronen in Kristallgittern,Zeitschrift für Physik,стаття
+16,1928,Über die Quantenmechanik der Elektronen in Kristallgittern,Phys. Zeits. 29,стаття
+16,1929,Zur Quantenmechanik der elektrischen Leitfähigkeit der Metalle,Helvetica Physica Acta,стаття
+16,1929,Zur Suszeptibilität und Widerstandsänderung der Metalle im Magnetfeld,Zeitschrift für Physik,стаття
+16,1929,Bemerkung zur Elektronentheorie des Ferromagnetismus und der elektrischen Leitfähigkeit,Zeitschrift für Physik,стаття
+16,1930,Zum Elektrischen Widerstandsgesetz bei tiefen Temperaturen,Zeitschrift für Physik,стаття
+16,1930,Zur Theorie des Ferromagnetismus,Zeitschrift für Physik,стаття
+16,1930,Ferromagnetisme en Quantum Mechanica,Physica,стаття
+16,1931,Zur [Theorie] der Magnetisierung ferromagnetischer Einkristalle (mit G. Gentile),Zeitschrift für Physik,стаття
+16,1932,Zur Theorie des Austauschproblems und der Remanenzerscheinung der Ferromagnetika,Zeitschrift für Physik,стаття
+16,1933,Zur Bremsung rasch bewegter Teilchen beim Durchgang durch Materie,Annalen der Physik,стаття
+16,1933,Bremsvermögen von Atomen mit mehreren Elektronen,Zeitschrift für Physik,стаття
+16,1934,Theory of the Compton-Line,Physical Review,стаття
+16,1936,On the Magnetic Scattering of Neutrons,Physical Review,стаття
+16,1940,Quantitative Determination of the Neutron Moment in Absolute Nuclear Magnetons (mit L. W. Alvarez),Physical Review,стаття
+16,1940,Magnetic Resonance for Nonrotating Fields (mit A. Siegert),Physical Review,стаття
+16,1946,Nuclear Induction,Physical Review,стаття
+16,1946,"The Nuclear Induction Experiment (mit W. W. Hansen, M. E. Packard)",Physical Review,стаття
+17,1934,Radioactivity Induced by Neutron Bombardment,Proceedings of the Royal Society A,стаття
+17,1940,An Example of Isomerism in Nuclear Reactions,Physical Review,стаття
+17,1940,Nuclear Isomerism,Physical Review,стаття
+17,1940,An Artificial Radioactive Isotope of Manganese,Physical Review,стаття
+17,1946,The Emission of Long-Range Particles from Light Nuclei,Physical Review,стаття
+17,1947,Radioactive Isotopes of the Rare Earths,Physical Review,стаття
+17,1947,The Probability of Spontaneous Fission,Physical Review,стаття
+17,1949,The Fission of Heavy Nuclei,Physical Review,стаття
+17,1950,Isotopes of Californium and Americium,Physical Review,стаття
+17,1950,The New Element Californium,Physical Review,стаття
+17,1953,Experimental Nuclear Physics,John Wiley & Sons (New York),книга
+17,1955,Observation of Antiprotons,Physical Review,стаття
+17,1956,Anti-Protons and Other Antiparticles,Scientific American,стаття
+17,1957,Antiprotons,Annual Review of Nuclear Science,стаття
+17,1958,The Antiproton-Nucleon Annihilation Process,Physical Review,стаття
+17,1959,Experimental Nuclear Physics,John Wiley & Sons (New York),книга
+18,1930,Berechnung der natürlichen Linienbreite auf Grund der Dirac'schen Lichttheorie (mit E. Wigner),Zeitschrift für Physik,стаття
+18,1934,Über die Selbstenergie des Elektrons,Zeitschrift für Physik,стаття
+18,1934,Zur Quantisierung der skalaren relativistischen Wellengleichung (mit W. Pauli),Helvetica Physica Acta,стаття
+18,1936,Probleme der neueren Quantentheorie des Elektrons,Uspekhi Fizicheskikh Nauk,стаття
+18,1936,Zur Theorie der Kernmassen,Zeitschrift für Physik,стаття
+18,1937,Statistics and Nuclear Reactions,Physical Review,стаття
+18,1940,Self-energy of the electromagnetic field of the electron,Physical Review,стаття
+18,1947,On the Production Process of Mesons,Physical Review,стаття
+18,1948,Nuclear Reactions and the Compound Nucleus,Physical Review,стаття
+18,1949,Recent Developments in the Theory of the Electron,Reviews of Modern Physics,стаття
+18,1949,A Schematic Theory of Nuclear Cross Sections (mit H. Feshbach),Physical Review,стаття
+18,1950,The Influence of Nuclear Structure on the Hyperfine Structure of Heavy Elements (mit A. Bohr),Physical Review,стаття
+18,1950,Compound Nucleus and Nuclear Resonances,Helvetica Physica Acta,стаття
+18,1951,Radiative Transition Probabilities in Nuclei,Physical Review,стаття
+18,1951,Radiative Transitions in Nuclei,Physical Review,стаття
+18,1952,Theoretical Nuclear Physics (mit J. Blatt),John Wiley & Sons (New York),книга
+18,1953,"The Formation of a Compound Nucleus in Neutron Reactions (mit H. Feshbach, C. Porter)",Physical Review,стаття
+18,1955,The Compound Nucleus (mit F. Friedman),У збірнику Niels Bohr and the Development of Physics (Pergamon Press),стаття
+18,1956,"Quantum Theory of Fields (mit J. Schwinger, H. Feshbach)",Proceedings of the 1956 Rochester Conference on High-Energy Physics,стаття
+18,1957,Fall of Parity: Recent Discoveries Related to Symmetry of Laws of Nature (mit L. Rodberg),Science,стаття
+18,1958,The Scattering of Electromagnetic Waves by Turbulent Atmospheric Fluctuations (mit F. Villars),Physical Review,стаття
+18,1959,Meson-Nucleon Scattering and Nuclear Forces,Physical Review,стаття
+18,1962,Knowledge and Wonder,Doubleday (New York),книга
+19,1929,On the theory of galvanomagnetic effects,Zeitschrift für Physik,стаття
+19,1929,Zur Theorie der galvanomagnetischen Effekte,Zeitschrift für Physik,стаття
+19,1929,Zur Theorie des Hall-Effekts,Zeitschrift für Physik,стаття
+19,1930,Quantum electrodynamics in configuration space (mit L. Landau),Zeitschrift für Physik,стаття
+19,1930,Extension of the Uncertainty Principle to relativistic quantum theory (mit L. Landau),Zeitschrift für Physik,стаття
+19,1930,On the theory of electric and thermal conductivity of metals,Annalen der Physik,стаття
+19,1930,Two remarks on the theory of conductivity,Annalen der Physik,стаття
+19,1931,On the kinetic theory of thermal conduction in crystals,Annalen der Physik,стаття
+19,1931,Zur Theorie der elektrischen und thermischen Leitfähigkeit der Metalle,Annalen der Physik,стаття
+19,1932,On the absorption spectra of solids,Physikalische Zeitschrift der Sowjetunion,стаття
+19,1933,On the theory of the diamagnetism of conduction electrons,Zeitschrift für Physik,стаття
+19,1933,On the theory of the diamagnetism of conduction electrons. II. Strong magnetic fields,Zeitschrift für Physik,стаття
+19,1933,Quantentheorie der elektrischen Leitfähigkeit,Handbuch der Physik,книга
+19,1934,"The ""Neutrino"" (mit H. A. Bethe)",Nature,стаття
+19,1935,Quantum theory of the diplon (mit H. A. Bethe),Proceedings of the Royal Society A,стаття
+19,1935,The scattering of neutrons by protons (mit H. A. Bethe),Proceedings of the Royal Society A,стаття
+19,1936,Statistical theory of superlattices with unequal concentrations of the components,Proceedings of the Royal Society A,стаття
+19,1936,On Ising's model of ferromagnetism,Proceedings of the Cambridge Philosophical Society,стаття
+19,1936,The Kapitza resistance and the thermal conductivity of crystals,,стаття
+19,1937,Die kinetische Theorie der Wärmeleitung in Kristallen,Annalen der Physik,стаття
+19,1938,The dispersion formula for nuclear reactions (mit P. L. Kapur),Proceedings of the Royal Society A,стаття
+19,1938,Penetration into potential barriers in several dimensions (mit P. L. Kapur),,стаття
+19,1939,"Nuclear reactions in the continuous energy region (mit N. Bohr, G. Placzek)",Nature,стаття
+19,1939,Critical conditions in neutron multiplication,,стаття
+19,1940,The Frisch-Peierls Memorandum (mit O. Frisch),,меморандум
+19,1941,The Bohr theory of nuclear reactions,,стаття
+19,1943,Separation of isotopes (mit K. Fuchs),,стаття
+19,1947,Elektronentheorie der Metalle,Springer (Berlin),книга
+19,1955,Quantum theory of solids,Clarendon Press (Oxford),книга
+19,1959,The commutation laws of relativistic field theory,,стаття
+19,1962,Surprises in Theoretical Physics,Princeton University Press,книга
+19,1963,Laws of Nature,,книга
+20,1925,Über die Ausdehnung der phänomenologischen Thermodynamik auf die Schwankungserscheinungen,Zeitschrift für Physik,стаття
+20,1925,Über die anomalie Röntgenstreuung (mit H. Mark),Zeitschrift für Physik,стаття
+20,1926,Polarisation von Röntgenstrahlen durch Reflexion an Kristallen (mit H. Mark),Zeitschrift für Physik,стаття
+20,1929,Über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen,Zeitschrift für Physik,стаття
+20,1934,Chemical Separation of the Radioactive Element from its Bombarded Isotope in the Fermi Effect (mit T.A. Chalmers),Nature,стаття
+20,1934,Detecting Neutrons Liberated from Beryllium by Gamma Rays,Nature,стаття
+20,1934,Liberation of Neutrons from Beryllium by X-Rays (з групою з шести співавторів),Nature,стаття
+20,1934,Radioactivity Induced by Neutrons (mit T.A. Chalmers),Nature,стаття
+20,1935,Absorption of Residual Neutrons,Nature,стаття
+20,1937,Gamma Rays Excited by Capture of Neutrons (mit W.J. Henderson),Nature,стаття
+20,1939,"Radioactivity Induced by Nuclear Excitation (mit M. Goldhaber, P.M. Hill)",Physical Review,стаття
+20,1939,Instantaneous Emission of Fast Neutrons in the Interaction of Slow Neutrons with Uranium (mit W.H. Zinn),Physical Review,стаття
+20,1939,Emission of Neutrons by Uranium (mit W.H. Zinn),Physical Review,стаття
+20,1939,"Neutron Production and Absorption in Uranium (mit H.L. Anderson, E. Fermi)",Physical Review,стаття
+21,1930,Über das Wasserstoffmolekülion,Zeitschrift für Physik,стаття
+21,1939,"Electron-Positron Field Theory of Nuclear Forces (з Є. Вігнером, Ч. Крітчфілдом)",Physical Review,стаття
+21,1939,Über die Geometrie der Moleküle bei Elektronenzuständen mit entarteten Termen (з Г. Яном),,стаття
+21,1949,"Equations of State of Elements Based on the Generalized Fermi-Thomas Theory (з Р. Фейнманом, Н. Метрополісом)",U.S. Atomic Energy Commission / Physical Review,стаття
+21,1953,"Equation of State Calculations by Fast Computing Machines (з Н. Метрополісом, А. Розенблутом)",Journal of Chemical Physics,стаття
+21,1961,The Structure of Matter (з Ф. Райсом),Science Editions,книга
+22,1919,Intensities of spectral lines on the application of the quantum theory to the problem of the relative intensities of the components of the fine structure and of the Stark effect of the lines of the hydrogen spectrum,Høst (Copenhagen),дисертація
+22,1924,"The Quantum Theory of Radiation (mit N. Bohr, J. C. Slater)",Philosophical Magazine,стаття
+22,1924,On the Scattering of Radiation by Atoms (mit W. Heisenberg),Zeitschrift für Physik,стаття
+22,1925,Some Remarks on Heisenberg's Quantum Mechanics,,стаття
+22,1926,Wave Mechanics and Half-Odd-Integral Quantisation,,стаття
+22,1926,The Scattering of Light by Atoms,,стаття
+22,1927,The Symbolic Method,,стаття
+22,1927,General Theory of Paramagnetic Rotation in Crystals,,стаття
+22,1928,Classical Relativistic Spin-Theory and Its Quantization,,стаття
+22,1929,On the Eigenvalue Problem in a One-Dimensional Field of Force,,стаття
+22,1930,The Use of Charge-Conjugated Wavefunctions in the Hole Theory of the Electron,,стаття
+22,1931,Knowledge of Past and Future in Quantum Mechanics,Physical Review,стаття
+22,1931,Brownian Motion in a Field of Force and the Diffusion Model of Chemical Reactions,,стаття
+22,1932,Statistics of the Two-Dimensional Ferromagnet,,стаття
+22,1933,Die Grundlagen der Quantentheorie,Hand- und Jahrbuch der chemischen Physik,книга
+22,1933,Fundamental Difficulties of a Theory of Particles,,стаття
+22,1935,The Behavior of Macromolecules in Inhomogeneous Flow,,стаття
+22,1938,Quantentheorie des Elektrons und der Strahlung,,книга
+22,1957,Collected Scientific Papers,North-Holland Publishing Co.,книга
+23,1927,Zur Quantenmechanik der Richtungsentartung,Zeitschrift für Physik,стаття
+23,1927,Zur Quantentheorie kontinuierlicher Spektren,Zeitschrift für Physik,стаття
+23,1927,Zur Quantentheorie der Molekeln (mit M. Born),Annalen der Physik,стаття
+23,1928,Three notes on the quantum theory of aperiodic effects,Physical Review (2),стаття
+23,1928,On the quantum theory of electronic impacts,Physical Review (2),стаття
+23,1928,On the quantum theory of field currents,Physical Review (2),стаття
+23,1928,On the quantum theory of the capture of electrons,Physical Review (2),стаття
+23,1929,Über die Strahlung der freien Elektronen im Coulombfeld,Zeitschrift für Physik,стаття
+23,1930,Note on the theory of the interaction of field and matter,Physical Review (2),стаття
+23,1930,On the theory of electrons and protons,Physical Review (2),стаття
+23,1930,Two notes on the probability of radiative transitions,Physical Review (2),стаття
+23,1931,Note on light quanta and the electromagnetic field,Physical Review (2),стаття
+23,1933,The disintegration of lithium by protons of high energy,Physical Review (2),стаття
+23,1934,The theory of the electron and positive,Physical Review (2),стаття
+23,1935,Are the formulae for the absorption of high energy radiations valid?,Physical Review (2),стаття
+23,1935,The disintegration of the deuteron by impact,Physical Review (2),стаття
+23,1935,Note on charge and field fluctuations,Physical Review (2),стаття
+23,1935,Note on the production of pairs by charged particles,Physical Review (2),стаття
+24,1942,The Principle of Least Action in Quantum Mechanics,Princeton University,дисертація
+24,1948,Space-Time Approach to Non-Relativistic Quantum Mechanics,Reviews of Modern Physics,стаття
+24,1948,A Relativistic Cut-Off for Classical Electrodynamics (з J. A. Wheeler),Reviews of Modern Physics,стаття
+24,1949,The Theory of Positrons,Physical Review,стаття
+24,1949,Space-Time Approach to Quantum Electrodynamics,Physical Review,стаття
+24,1950,Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction,Physical Review,стаття
+25,1934,On the Interaction of Several Electrons,,рукопис
+25,1948,Quantum Electrodynamics. I. A Covariant Formulation,Physical Review,стаття
+25,1949,Quantum Electrodynamics. II. Vacuum Polarization and Self-Energy,Physical Review,стаття
+25,1949,Quantum Electrodynamics. III. The Electromagnetic Properties of the Electron – Radiative Corrections to Scattering,Physical Review,стаття
+25,1949,On Gauge Invariance and Vacuum Polarization,Physical Review,стаття
+25,1951,The Theory of Quantized Fields. I,Physical Review,стаття
+25,1951,The Theory of Quantized Fields. II,Physical Review,стаття
+26,1934,On the photo-electric creation of positive and negative electrons (з Й. Нішиною та Ш. Сакатою),,стаття
+26,1934,On the negative-energy electrons (з Й. Нішиною),,стаття
+26,1937,Bemerkungen über die kinetische Kernenergie im Hartree-Fock-Modell,,стаття
+26,1940,Über den Zusammenstoß des Mesotrons mit Elektronen,Scientific Papers of the Institute of Physical and Chemical Research,стаття
+26,1941,Zur Theorie des Mesotrons. I,Scientific Papers of the Institute of Physical and Chemical Research,стаття
+26,1942,Bemerkung über die Streuung der Mesotronen am Kernteilchen,Scientific Papers of the Institute of Physical and Chemical Research,стаття
+26,1942,Zur Theorie des Mesotrons. II (з Т. Міядзімою),Scientific Papers of the Institute of Physical and Chemical Research,стаття
+26,1943,On a Relativistically Invariant Formulation of the Quantum Theory of Wave Fields,"RI 22, 525 (1943); Progress of Theoretical Physics",стаття
+26,1943,On the Mesotron Theory of the Nuclear Forces (з Т. Міядзімою),Scientific Papers of the Institute of Physical and Chemical Research,стаття
+26,1946,On a relativistically invariant formulation of the quantum theory of wave fields,Progress of Theoretical Physics,стаття
+26,1947,"On a relativistically invariant formulation of the quantum theory of wave fields. II, III (з З. Кобою та Т. Таті)",Progress of Theoretical Physics,стаття
+26,1947,On the Elimination of the Auxiliary Condition in the Quantum Electrodynamics. I (з С. Хаякавою та Й. Міямото),Journal of the Physical Society of Japan,стаття
+26,1947,"On a relativistically invariant formulation of the quantum theory of wave fields. IV, V (з С. Канесавою)",Progress of Theoretical Physics,стаття
+26,1948,On Infinite Field Reactions in Quantum Field Theory,,стаття
+26,1949,Cosmic Ray Underground (з С. Хаякавою),,стаття
+26,1950,Remarks on Bloch's Method of Sound Waves applied to Many-Fermion Problems,Progress of Theoretical Physics,стаття
+26,1955,"Elementary Theory of Quantum-Mechanical Collective Motion of Particles, I, II",Progress of Theoretical Physics,стаття
+26,1962,Quantum Mechanics. Vol. I: Old quantum theory,,книга
+26,1966,Development of Quantum Electrodynamics,Science,стаття
+26,1966,Quantum Mechanics. Vol. II: New quantum theory,,книга
+27,1951,Bound States in Quantum Field Theory (з Ф. Лоу),Physical Review,стаття
+27,1953,Consequences of Charge Independence for Nuclear Reactions Involving Photons (з В. Телегді),Physical Review,стаття
+27,1954,Quantum Electrodynamics at Small Distances (з Ф. Лоу),Physical Review,стаття
+27,1955,Behavior of Neutral Particles under Charge Conjugation (з А. Пайсом),Physical Review,стаття
+27,1957,Model of the Strong Couplings,Physical Review,стаття
+27,1958,Test of the Nature of the Vector Interaction in β Decay,Physical Review,стаття
+27,1958,Theory of the Fermi Interaction (з Р. Фейнманом),Physical Review,стаття
+27,1960,The Axial Vector Current in Beta Decay (з М. Леві),Il Nuovo Cimento,стаття
+27,1961,Gauge Theories of Vector Particles (з Ш. Глешоу),Annals of Physics,стаття
+27,1961,The Eightfold Way: A theory of strong interaction symmetry,California Institute of Technology Report CTSL-20,стаття
+27,1962,Symmetries of Baryons and Mesons,Physical Review,стаття
+27,1964,A Schematic Model of Baryons and Mesons,Physics Letters,стаття
+27,1964,The Symmetry Group of Vector and Axial Vector Currents,Physics Physique Fizika,стаття
+28,1933,Positively Charged Component of Cosmic Rays (з А. Комптоном),Physical Review,стаття
+28,1937,Nuclear K Electron Capture,Physical Review,стаття
+28,1938,The Production of High-Energy Neutrons by the Impact of Deuterons on Deuterium,Physical Review,стаття
+28,1940,A Quantitative Determination of the Neutron Moment in Absolute Nuclear Magnetons (з Ф. Блохом),Physical Review,стаття
+28,1949,A Proposed Experimental Test of the Neutrino Theory,Lawrence Berkeley Laboratory,стаття
+28,1950,Three New Delayed Alpha-Emitters of Low Mass,Physical Review,стаття
+28,1957,Catalysis of Nuclear Reactions by μ Mesons (з іншими),Physical Review,стаття
+28,1960,Resonance in the System (з М. Альстон та ін.),Physical Review,стаття
+28,1960,Hyperon Resonance (з іншими),Physical Review,стаття
+29,1926,Theory of Intensity Distribution in Band Systems,Physical Review,стаття
+29,1927,On the theory of intensity distribution in band systems,"University of California, Berkeley",дисертація
+29,1928,Quantum Mechanics of Momentum Space (з П. Морзе),Physical Review,стаття
+29,1929,Quantum Mechanics and Radioactive Disintegration (з Р. Герні),Physical Review,стаття
+29,1929,Quantum Mechanics (з П. Морзе),McGraw-Hill,книга
+29,1929,The Critical Potentials of Molecular Hydrogen,Physical Review,стаття
+29,1929,The Theory of Complex Spectra,Physical Review,стаття
+29,1929,The Theory of Complex Spectra II (з Г. Шортлі),Physical Review,стаття
+29,1930,The Theory of Complex Spectra,Physical Review,стаття
+29,1931,Quantum Mechanics of Collision Processes (з П. Морзе),Reviews of Modern Physics,стаття
+29,1931,The Spin of the Neutron,Physical Review,стаття
+29,1935,The Theory of Atomic Spectra (з Г. Шортлі),Cambridge University Press,книга
+29,1937,The Franck-Condon Principle and Related Topics,American Journal of Physics,стаття
+29,1938,The Structure of the Nucleus,Reviews of Modern Physics,стаття
+29,1948,Physics of the Electron,Reviews of Modern Physics,стаття
+29,1950,The Franck-Condon Principle,Physical Review,стаття
+29,1958,"Handbook of Physics (редактор, з Х. Одішо)",McGraw-Hill,книга
+30,1927,On the Principal Magnetic Susceptibilities of Crystals,Physical Review,стаття
+30,1927,The Magnetic Susceptibility of Crystals,Physical Review,стаття
+30,1931,Refraction and Dispersion in Alkali Halides (з іншими),Physical Review,стаття
+30,1932,The Magnetic Susceptibility of Hydrogen (з іншими),Physical Review,стаття
+30,1933,The Magnetic Susceptibility of Deuterium (з іншими),Physical Review,стаття
+30,1937,Space Quantization in a Gyrating Magnetic Field,Physical Review,стаття
+30,1938,A New Method of Measuring Nuclear Magnetic Moment (з іншими),Physical Review,стаття
+30,1939,"The Molecular Beam Resonance Method for Measuring Nuclear Magnetic Moments (з С. Міллманом, П. Кушем, Дж. Захаріасом)",Physical Review,стаття
+30,1940,The Magnetic Moments of the Proton and Deuteron (з іншими),Physical Review,стаття
+31,1922,"The Intensity of X-Ray Reflection, and the Distribution of the Electrons in Atoms",Physical Review,стаття
+31,1923,A Quantum Theory of the Scattering of X-rays by Light Elements,Physical Review,стаття
+31,1924,The Spectrum of Scattered X-Rays,Physical Review,стаття
+31,1926,X-Rays and Electrons,D. Van Nostrand Company,книга
+31,1927,Secondary Radiations Produced by X-Rays,Physical Review,стаття
+31,1936,The Latitude Effect of Cosmic Rays (з іншими),Physical Review,стаття
+32,1949,"The Radiation Theories of Tomonaga, Schwinger, and Feynman",Physical Review,стаття
+32,1949,The S Matrix in Quantum Electrodynamics,Physical Review,стаття
+32,1950,The Renormalization Method in Quantum Electrodynamics,,стаття
+32,1950,Recent developments in quantum electrodynamics,University of Michigan Report,звіт
+32,1952,Divergence of perturbation theory in quantum electrodynamics,Physical Review,стаття
+32,1956,General Theory of Spin-Wave Interactions,Physical Review,стаття
+32,1956,Thermodynamic Behavior of an Ideal Ferromagnet,Physical Review,стаття
+32,1957,Connection between local commutativity and regularity of Wightman functions,Physical Review,стаття
+32,1962,"Statistical Theory of the Energy Levels of Complex Systems. I, II, III",Journal of Mathematical Physics,стаття
+32,1964,A Brownian-motion model for the eigenvalues of a random matrix,Journal of Mathematical Physics,стаття
+32,1964,The Threefold Way. Algebraic Structure of Symmetry Groups and Ensembles in Quantum Mechanics,Journal of Mathematical Physics,стаття
+33,1958,The Vector Meson in Elementary Particle Decays,Harvard University,дисертація
+33,1960,Resonant Scattering of Antineutrinos,Physical Review,стаття
+33,1961,Direct Decay and Muonium-Antimuonium Transitions,Physical Review Letters,стаття
+33,1961,Electrodynamic Properties of Baryons in the Unitary Symmetry Scheme (з С. Колменом),Physical Review Letters,стаття
+33,1961,Is Isotopic Spin a Good Quantum Number for the New Isobars?,Physical Review Letters,стаття
+33,1961,Partial Symmetries of Weak Interactions,Nuclear Physics,стаття
+33,1961,Gauge Theories of Vector Particles (з М. Гелл-Манном),Annals of Physics,стаття
+33,1964,Weak Interactions with Lepton-Hadron Symmetry (з Дж. Б'єркеном),Physics Letters,стаття
+34,1957,The role of strong interactions in decay processes,Princeton University,дисертація
+34,1960,Second-class weak interaction currents,Physical Review,стаття
+34,1960,High energy behavior of Feynman graphs,Physical Review,стаття
+34,1965,Photons and Gravitons in Perturbation Theory: Derivation of Maxwell's and Einstein's Equations,Physical Review,стаття
+34,1965,Infrared Photons and Gravitons,Physical Review,стаття
+34,1965,Evidence That the Deuteron Is Not an Elementary Particle,Physical Review,стаття
+35,1950,Differential Identities in Three-Field Renormalization Problem,Physical Review,стаття
+35,1951,Overlapping Divergences and the S-Matrix,Physical Review,стаття
+35,1951,The Renormalization of Meson Theories (з П. Метьюзом),Reviews of Modern Physics,стаття
+35,1951,Divergent Integrals in Renormalizable Field Theories,Physical Review,стаття
+35,1952,Renormalization of Scalar Electrodynamics Using b-Formalism,Pakistan J. Sci. 4,стаття
+35,1952,The Intermediate Coupling Theory of the Pseudoscalar Meson-Nucleon Interaction (з П. Метьюзом),Physical Review,стаття
+35,1952,Renormalized S-Matrix for Scalar Electrodynamics,Physical Review,стаття
+35,1953,Fredholm Theory of Scattering in a Given Time-Dependent Field (з П. Метьюзом),Physical Review,стаття
+36,1947,Surface States and Rectification at a Metal Semi-Conductor Contact,Physical Review,стаття
+36,1948,"The Transistor, a Semi-Conductor Triode (з В. Браттейном)",Physical Review,стаття
+36,1949,Physical Principles Involved in Transistor Action (з В. Браттейном),Bell System Technical Journal,стаття
+36,1957,"Microscopic Theory of Superconductivity (з Л. Купером, Дж. Шріффером)",Physical Review,стаття
+36,1957,"Theory of Superconductivity (з Л. Купером, Дж. Шріффером)",Physical Review,стаття
+36,1961,Electron-Phonon Interaction in Superconductors,Physical Review,стаття
+36,1964,Theory of Superconductivity (з іншими),,книга
+37,1927,Zur Theorie der Energieübertragung bei Stössen,Zeitschrift für Physik,стаття
+37,1930,Diamagnetismus der Metalle,Zeitschrift für Physik,стаття
+37,1931,Erweiterung des Unbestimmtheitsprinzips für die relativistische Quantentheorie (з Р. Паєрлсом),Zeitschrift für Physik,стаття
+37,1936,Zur Theorie der Phasenumwandlungen I,Physikalische Zeitschrift der Sowjetunion,стаття
+37,1937,Zur Theorie der Phasenumwandlungen II,Physikalische Zeitschrift der Sowjetunion,стаття
+37,1941,Theory of the Superfluidity of Helium II,Physical Review,стаття
+37,1941,On the Theory of Superfluidity,Journal of Physics USSR,стаття
+37,1946,On the Vibrations of the Electronic Plasma,Journal of Physics USSR,стаття
+37,1947,On the Theory of the Phonon-Roton Spectrum of Liquid Helium,Journal of Physics USSR,стаття
+37,1956,The Theory of a Fermi Liquid,Soviet Physics JETP,стаття
+37,1957,Oscillations in a Fermi Liquid,Soviet Physics JETP,стаття
+37,1957,Quantum Mechanics: Non-Relativistic Theory (з Є. Ліфшицем),Pergamon Press,книга
+38,1930,Über die Quantentheorie der molekularen Lichtzerstreuung in festen Körpern,Zeitschrift für Physik,стаття
+38,1930,Zur Quantentheorie der Lichtzerstreuung durch freie Elektronen,,стаття
+38,1931,К теории фотоэффекта на металлах (з С.П. Шубіним),,стаття
+38,1932,Über eine mögliche Art der Elektronenbindung an Kristalloberflächen,,стаття
+38,1934,"Exchange Forces Between Neutrons and Protons, and Fermi's Theory",,стаття
+38,1935,Relativistic Interaction of Elementary Particles,,книга
+38,1937,Coherent Visible Radiation of Fast Electrons Passing Through Matter (з І.М. Франком),,стаття
+38,1938,On the Magnetic Moment of the Neutron,,книга
+38,1939,General Characteristics of Radiation Emitted by Systems Moving with Superlight Velocities,,стаття
+38,1945,On the Theory of Spin,,стаття
+39,1945,Об электрическом пробое в ионном кристалле,Рефераты НИР за 1945 г.,стаття
+39,1947,Генерация жесткой компоненты космических лучей,ЖЭТФ,стаття
+39,1947,Получение нейтронов малой энергии фильтрацией через графит,УФН,стаття
+39,1948,Взаимодействие электрона и позитрона при рождении пар,ЖЭТФ,стаття
+39,1948,Температура возбуждения в плазме газового разряда,Известия АН СССР. Серия: Физическая,стаття
+39,1949,Наблюдение космического излучения с помощью фотопластинок,УФН,стаття
+39,1956,Теория магнитного термоядерного реактора (з І.Є. Таммом),Труди Першої Женевської конференції,стаття
+40,1935,Теория взаимодействия атома и металла,Журнал экспериментальной и теоретической физики,стаття
+40,1944,Об использовании запаздывающих нейтронов для регулирования цепной реакции,,стаття
+40,1955,Опыты по проверке квантовой электродинамики на малых расстояниях,,стаття
+40,1959,(назва не вказана),Физика твердого тела (ФТТ),стаття
+40,1965,Число квантов как инвариант классического электромагнитного поля,Доклады АН СССР,стаття
+41,1950,The Influence of Nuclear Structure on the Hyperfine Structure of Heavy Elements (з В. Вайскопфом),Physical Review,стаття
+41,1952,The Coupling of Nuclear Surface Oscillations to the Motion of Individual Nucleons,I kommission hos Munksgaard (Copenhagen),стаття
+41,1952,Rotational States in Even-Even Nuclei (з Б. Моттельсоном),,стаття
+41,1953,Collective and Individual-Particle Aspects of Nuclear Structure (з Б. Моттельсоном),Mat. Fys. Medd. Dan. Vid. Selsk. 27,стаття
+41,1954,Rotational States of Atomic Nuclei,University of Copenhagen,дисертація
+41,1955,On the Fine Structure in Alpha Decay,I kommission hos Munksgaard (Copenhagen),стаття
+41,1959,Nuclear Structure and the Collective Model (з Б. Моттельсоном),,стаття
+42,1950,Hydrogen Content of White Dwarf Stars,University of Chicago,дисертація
+42,1954,Some Special Examples in Renormalizable Field Theory,Physical Review,стаття
+42,1956,Question of Parity Conservation in Weak Interactions (з Ч.Н. Яном),Physical Review,стаття
+42,1957,Parity Nonconservation and a Two-Component Theory of the Neutrino (з Ч.Н. Яном),Physical Review,стаття
+42,1957,Weak Interactions and Nonconservation of Parity,Reviews of Modern Physics,стаття
+42,1960,Implications of the Intermediate Boson Basis of the Weak Interactions (з Ч.Н. Яном),Physical Review,стаття
+42,1964,Nonconservation of CP and Spontaneous Symmetry Breaking (з іншими),,стаття
+42,1965,Symmetry Properties of Leptons in the Zero-Mass Limit,Il Nuovo Cimento,стаття
+43,1950,On the Angular Distribution of Neutrons and Fission Fragments,Physical Review,стаття
+43,1952,Statistical Theory of Equations of State and Phase Transitions I. Theory of Condensation (з Ч. Лі),Physical Review,стаття
+43,1952,Statistical Theory of Equations of State and Phase Transitions II. Lattice Gas and Ising Model (з Ч. Лі),Physical Review,стаття
+43,1954,Conservation of Isotopic Spin and Isotopic Gauge Invariance (з Р. Міллсом),Physical Review,стаття
+43,1956,Question of Parity Conservation in Weak Interactions (з Ч. Лі),Physical Review,стаття
+43,1957,Parity Nonconservation and a Two-Component Theory of the Neutrino (з Ч. Лі),Physical Review,стаття
+43,1957,Weak Interactions and Nonconservation of Parity,Reviews of Modern Physics,стаття
+43,1960,Implications of the Intermediate Boson Basis of the Weak Interactions (з Ч. Лі),Physical Review,стаття
+43,1962,Concept of Off-Diagonal Long-Range Order and the Quantum Phases of Liquid He and of Superconductors,Reviews of Modern Physics,стаття
+43,1964,Nonconservation of CP and Spontaneous Symmetry Breaking (з іншими),,стаття

@@ -1,0 +1,10 @@
+# Встановлення один раз: python3 -m pip install -r requirements.txt
+# Тільки необхідне для Jupyter Notebook та аналізу:
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+plotly>=6.0
+networkx>=3.0
+statsmodels>=0.14
+scipy>=1.11
+ipykernel>=6.0

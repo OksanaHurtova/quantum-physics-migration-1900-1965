@@ -1,0 +1,14 @@
+# Private archive-derived inputs: NEVER publish
+private_data/
+**/germany_data*.csv
+**/usa_data*.csv
+# Don't publish generated outputs and Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+outputs/
+*.html
+# Local Python environment
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
